@@ -1,2 +1,2 @@
 # lyah
-Working through Learn You a Haskeel for Great Good!
+Working through Learn You a Haskell for Great Good!
